@@ -11,5 +11,5 @@ In this repository I will implement all datastructure that I explain in my blog 
 
 ## DataStructures that added until now:
 - Singly linked list:
-  - [Arabic article to explain this dataStructure]().
+  - [Arabic article to explain this dataStructure](https://araptiq.blogspot.com/2022/09/dataStructure-singlyLinkedList.html).
   - [The code of this dataStrucute by Javascript](https://github.com/Ahmed101Mohammed/DataStructureWithJavaScript/blob/main/singly_linked_list/singlyLinkedList.js).
